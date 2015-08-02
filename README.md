@@ -3,7 +3,7 @@
 This project stores my sequenced DNA in raw text for when I think of something
 interesting to do with it.
 
-Feel free to fork.
+Feel free to fork... and clone :D
 
 ## License
 
